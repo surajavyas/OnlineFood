@@ -60,7 +60,7 @@ export class FoodService {
       favorite :true,
       origins:['Mumbai'],
       stars:4,
-      imgUrl:'/assets/food/2.jpg',
+      imgUrl:'../../assets/food/2.jpg',
       tags:['Lunch']
 
     },
@@ -72,7 +72,7 @@ export class FoodService {
       favorite :false,
       origins:['Camp'],
       stars:3,
-      imgUrl:'/assets/food/3.jpg',
+      imgUrl:'../../assets/food/3.jpg',
       tags:['Burger']
 
     },
@@ -84,7 +84,7 @@ export class FoodService {
       favorite :false,
       origins:['Chaina'],
       stars:2,
-      imgUrl:'/assets/food/4.jpg',
+      imgUrl:'../../assets/food/4.jpg',
       tags:['Lunch']
 
     },
@@ -96,7 +96,7 @@ export class FoodService {
       favorite :false,
       origins:['South-India'],
       stars:5,
-      imgUrl:'/assets/food/5.jpg',
+      imgUrl:'../../assets/food/5.jpg',
       tags:['fastfood']
 
     },
